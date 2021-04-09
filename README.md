@@ -1,8 +1,7 @@
 Hello World
 
 I'm going to tell a little story, my little story.
-Not someone else's.
-If not mine.
+Not someone else's, but mine.
 My story of why at the age of 28 I am determined to change my career.
 Since my childhood, I have wanted to be a doctor like my mother, until in high school I came across the subject of Biology.
 I hated her.
