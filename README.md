@@ -7,24 +7,23 @@ Not someone else's, but mine.
 
 My story of why at the age of 28 I am determined to change my career.
 
-Since my childhood, I have wanted to be a doctor like my mother, until in high school I came across the subject of Biology.
+Since my childhood I have wanted to be a doctor, like my mother, until in high school I came across the subject of Biology.
 
 I hated it.
 
+I loved Math, I loved Physics and Chemistry but I hate Biology.
 
-I loved Math, Physics and Chemistry. Biology, no.
-
-So I decided to be an engineer. Not very convinced either.
+So I decided to be an Engineer.
 
 After 6 years and obtaining a degree and a master's degree in chemical engineering, I was still not very convinced.
 
-I went to Ireland for a year to improve my English and I was still not very sure.
+I went to Ireland for a year to improve my English.
 
 Then I started working and finally, I started to be sure.
 
 Not really.
 
-At 23 years old, you cannot be sure of anything in life.
+At 23 years old you cannot be sure of anything in life.
 
 I became interested in programming but I did not consider it more than one more tool.
 
@@ -37,17 +36,13 @@ In just over two hours I discovered what I wanted to be, Data Scientist. My eter
 
 I had never seen something so powerful, with so many possibilities and that I could study at home.
 
-At home, almost free.
-
-Like a God, but with a computer.
-
 If you want it you can do it, but that is the difficult thing.
 
 Everyone can do it.
 
 Few people really want it.
 
-In September, my 'stroke of luck': I was off work for 3 months and had money saved. So I go to study 60 hours a week.
+In September 2020 I start studying 60 hours a week.
 
 No 10.
 
@@ -66,6 +61,3 @@ I assure you that you can only dedicate 60 hours a week to something if you real
 
 
 It is never too late to start studying something new.
-
-
-LEARN, LIVE, DREAM.
