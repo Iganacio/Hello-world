@@ -32,7 +32,7 @@ Over time I was doing more and more complex things in VBA.
 More things and more complex.
 
 Until one day I came across this interview on YouTube: https://www.youtube.com/watch?v=8yAh97kg48A
-In just over two hours I discovered what I wanted to be, Data Scientist. My eternal thanks to Guillemo Barquero and Eduardo Riera.
+In just over two hours I discovered what I wanted to do, I wanted to work with data. My eternal thanks to Guillemo Barquero and Eduardo Riera.
 
 I had never seen something so powerful, with so many possibilities and that I could study at home.
 
