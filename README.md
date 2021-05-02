@@ -59,5 +59,4 @@ And then I begin to practice it and practice it more and more. The result of my 
 
 I assure you that you can only dedicate 60 hours a week to something if you really love it.
 
-
 It is never too late to start studying something new.
